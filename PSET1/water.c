@@ -1,3 +1,11 @@
+//  Luigi F. Du
+//  luigifloresdu@gmail.com
+//
+//  EdX Harvard CS50
+//
+//  Problem Set 1, water
+//  Calculates the number of bottles of water filled per minute
+
 #include <stdio.h>
 #include <cs50.h>
 

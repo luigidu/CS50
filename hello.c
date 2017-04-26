@@ -1,10 +1,10 @@
-//Luigi F. Du
-//luigifloresdu@gmail.com
+//  Luigi F. Du
+//  luigifloresdu@gmail.com
 //
-//EdX Harvard CS50
+//  EdX Harvard CS50
 //
-//Problem Set 0
-//Prints "Hello, world!"
+//  Problem Set 0
+//  Prints "Hello, world!"
 
 #include <stdio.h>
 

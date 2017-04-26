@@ -3,7 +3,7 @@
 //
 //  EdX Harvard CS50
 //
-//  Problem Set 0
+//  Problem Set 0, Hello
 //  Prints "Hello, world!"
 
 #include <stdio.h>

@@ -15,4 +15,5 @@ int main(void)
     printf("minutes: ");
     int minute = get_int();
     printf("bottles: %i\n", minute * 12);
+    return 0;
 }
